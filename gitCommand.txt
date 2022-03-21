@@ -1,0 +1,14 @@
+git init
+ls -a [hidden file]
+git add . [add * from the directroy]
+git commit -m "message"
+git log - "can verify author and date"
+
+git diff -checking differences between old file and new file
+
+
+git restore filename - rollback to committed file
+
+heroku create 
+
+git push heroku master
